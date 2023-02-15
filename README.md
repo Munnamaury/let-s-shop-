@@ -1,2 +1,2 @@
-# static-website2
-## Live Demo-> https://static-website2-1p85lehup-jyotimishra05.vercel.app/
+# e-commerce website
+## Live Demo-> https://lets-shop-by-munna.netlify.app/
